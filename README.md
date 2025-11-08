@@ -182,16 +182,4 @@ flutter test --coverage
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Flutter team for the amazing framework
-- Firebase for backend services
-- Riverpod for state management
-- All open-source contributors
-
-
 **Built with ❤️ using Flutter**
