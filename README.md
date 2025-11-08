@@ -159,7 +159,7 @@ flutter test --coverage
 
 ## 📱 Screenshots
 
-*Add screenshots of your app here*
+
 
 ## 🔧 Configuration
 
